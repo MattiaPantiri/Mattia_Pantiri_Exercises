@@ -1,0 +1,9 @@
+1
+2
+1000000
+100
+
+	ReadInput >> needle_length;
+	ReadInput >> dist;
+	ReadInput >> n_throws;
+	ReadInput >> n_blocks;

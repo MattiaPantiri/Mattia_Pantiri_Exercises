@@ -1,0 +1,5 @@
+10000
+50
+
+	ReadInput >> n_throws;
+	ReadInput >> n_bins;

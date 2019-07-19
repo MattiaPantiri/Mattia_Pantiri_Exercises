@@ -1,0 +1,12 @@
+1000000
+100
+100
+100
+10000
+
+	ReadInput >> n_throws;
+	ReadInput >> n_blocks;
+	ReadInput >> n_chitest;
+	ReadInput >> n_subintervals;
+	ReadInput >> n_chithrows;
+
