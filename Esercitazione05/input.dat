@@ -1,0 +1,15 @@
+1000000
+100
+1.1
+0.8
+2.8
+1.7
+0
+
+	ReadInput >> n_throws;
+	ReadInput >> n_blocks;
+	ReadInput >> delta_1s_uniform;
+	ReadInput >> delta_1s_gaussian;
+	ReadInput >> delta_2p_uniform;
+	ReadInput >> delta_2p_gaussian;
+	ReadInput >> equilibration;
