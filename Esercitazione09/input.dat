@@ -1,0 +1,11 @@
+30
+900
+200
+1.0
+1.0
+
+	ReadInput >> n_cities;
+	ReadInput >> n_elements;
+	ReadInput >> n_generations;
+	ReadInput >> R;
+	ReadInput >> L;
