@@ -1,0 +1,19 @@
+0
+0.7931034482758621
+0.6206896551724138
+0.7931034482758621
+-7.0
+7.0
+100
+100
+10000
+
+	ReadInput >> equilibration;
+	ReadInput >> mu;
+	ReadInput >> sigma;
+	ReadInput >> x0;
+	ReadInput >> histo_xmin;
+	ReadInput >> histo_xmax;
+	ReadInput >> nbins;
+	ReadInput >> nblk;
+	ReadInput >> nstep;
